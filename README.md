@@ -1,16 +1,5 @@
 # event_bus_demo
 
-A new Flutter project.
+A Flutter project, which gives an idea how EventBus can be used in diff use cases while developing app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Read blog for detailed explaination](https://dev.to/paddy57/the-unseen-conductor-orchestrating-app-notifications-with-eventbus-3nca)
